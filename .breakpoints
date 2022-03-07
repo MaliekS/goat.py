@@ -1,10 +1,24 @@
 {
   "files": {
+    "enemy.py": [
+      {
+        "id": "2c8e9ed0-9509-4724-af48-2e633da48434",
+        "line": 9,
+        "version": 219,
+        "index": 178
+      }
+    ],
     "main.py": [
       {
-        "id": "f25984e6-a0a4-405b-bd3b-3aac7fdbd4b8",
+        "id": "e0f4897e-51da-4d3a-9116-7984e02fba74",
         "line": 1,
-        "version": 1911,
+        "version": 2454,
+        "index": 0
+      },
+      {
+        "id": "6f9ab622-7677-4eef-92f6-270f6135d3a9",
+        "line": 1,
+        "version": 2454,
         "index": 0
       }
     ]

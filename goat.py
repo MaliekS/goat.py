@@ -3,3 +3,4 @@ class Goat:
       self.color=_color
       self.maxspeed=_maxSpeed
       self.minSpeed=_min
+      
