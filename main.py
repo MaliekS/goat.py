@@ -4,3 +4,4 @@ print("Welcome to Maliek's ATM. Please enter your
 
       phoneNumber= input(Enter your phone number)
 Name= input(Enter your name)
+def (load account)
